@@ -1,5 +1,7 @@
 *.python linguist-detectable=true
 *.Jupyter Notebook linguist-detectable=false
 *.gs linguist-language=Python
-hide=jupyter notebook
+hide=jupyter%20notebook
+notebooks/** linguist-vendored
+jupyter%20notebook/** linguist-vendored
 
