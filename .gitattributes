@@ -1,3 +1,4 @@
 *.python linguist-detectable=true
 *.Jupyter Notebook linguist-detectable=false
+*.gs linguist-language=Python
 
